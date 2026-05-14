@@ -5,140 +5,140 @@ export const products = [
       id: 1,
       img: require('../images/naoem/kahk sada.png'),
       name: 'كحك سادة بلدي',
-      price: 285,
+      price: 300,
       category: 'naoem'   
     },
     {
       id: 2,
       img: require('../images/naoem/Kahk Mlbn.jpeg'),
       name: 'كحك ملبن بلدي',
-      price: 275,
+      price: 280,
       category: 'naoem'
     },
     {
       id: 3,
       img: require('../images/naoem/Kahk Mlbn.jpeg'),
       name: 'كحك ملبن خليط',
-      price: 235,
+      price: 240,
       category: 'naoem'
     },
     {
       id: 4,
       img: require('../images/naoumCat.png'),
       name: 'كحك مكسرات بلدي',
-      price: 290,
+      price: 300,
       category: 'naoem'
     },
     {
       id: 5,
       img: require('../images/naoumCat.png'),
       name: 'كحك مكسرات خليط',
-      price: 250,
+      price: 255,
       category: 'naoem'
     },
     {
       id: 6,
       img: require('../images/naoem/kahk agwa.png'),
       name: 'كحك عجوة خليط',
-      price: 235,
+      price: 240,
       category: 'naoem'
     },
     {
       id: 7,
       img: require('../images/naoem/biscuit.png'),
       name: ' بسكويت سادة بلدي',
-      price: 275,
+      price: 280,
       category: 'naoem'
     },
     {
       id: 8,
       img: require('../images/naoem/biscuit.png'),
       name: ' بسكويت سادة خليط',
-      price: 230,
+      price: 235,
       category: 'naoem'
     },
     {
       id: 9,
       img: require('../images/naoem/biscuit choco.png'),
       name: ' بسكويت شيكولاتة خليط',
-      price: 245,
+      price: 260,
       category: 'naoem'
     },
     {
       id: 10,
       img: require('../images/naoem/biscuit.png'),
       name: ' بسكويت برتقال',
-      price: 220,
+      price: 230,
       category: 'naoem'
     },
     {
       id: 11,
       img: require('../images/naoem/biscuit.png'),
       name: ' بسكويت جوزهند',
-      price: 220,
+      price: 230,
       category: 'naoem'
     },
     {
       id: 12,
       img: require('../images/naoem/biscuit.png'),
       name: ' بسكويت شاي',
-      price: 220,
+      price: 230,
       category: 'naoem'
     },
     {
       id: 13,
       img: require('../images/naoem/ghoriba.png'),
       name: ' غريبة بلدي',
-      price: 285,
+      price: 300,
       category: 'naoem'
     },
     {
       id: 14,
       img: require('../images/naoem/بيتي فور.jpeg'),
       name: ' بيتي فور شوكولاتة بلدي',
-      price: 290,
+      price: 295,
       category: 'naoem'
     },
     {
       id: 15,
       img: require('../images/naoem/بيتي فور.jpeg'),
       name: ' بيتي فور شوكولاتة خليط',
-      price: 240,
+      price: 245,
       category: 'naoem'
     },
     {
       id: 16,
       img: require('../images/naoem/cookies.jpeg'),
       name: 'كوكيز شوكولاتة',
-      price: 225,
+      price: 240,
       category: 'naoem'
     },
     {
       id: 17,
       img: require('../images/naoem/original.jpeg'),
       name: 'بيتي فور اورجينال صغير',
-      price: 310,
+      price: 320,
       category: 'naoem'
     },
     {
       id: 18,
       img: require('../images/naoem/original.jpeg'),
       name: 'بيتي فور اورجينال كبير',
-      price: 380,
+      price: 390,
       category: 'naoem'
     },
     {
       id: 19,
       img: require('../images/naoem/Sable.jpeg'),
       name: 'سابليه صغير',
-      price: 335,
+      price: 350,
       category: 'naoem'
     },
     {
       id: 20,
       img: require('../images/naoem/Sable.jpeg'),
       name: 'سابليه كبير',
-      price: 405,
+      price: 420,
       category: 'naoem'
     },
     {
@@ -152,7 +152,7 @@ export const products = [
       id: 22,
       img: require('../images/naoem/mix4.png'),
       name: ' مشكل خليط',
-      price: 260,
+      price: 270,
       category: 'naoem'
     },
     {
@@ -173,14 +173,14 @@ export const products = [
       id: 25,
       img: require('../images/western/gatoR.jpeg'),
       name: 'قطعة جاتوة رويال',
-      price: 45,
+      price: 50,
       category: 'western'   
     },
     {
       id: 26,
       img: require('../images/western/gatoR.jpeg'),
       name: 'دستة جاتوة رويال',
-      price: 485,
+      price: 600,
       category: 'western'   
     },
     {
@@ -201,7 +201,7 @@ export const products = [
       id: 29,
       img: require('../images/western/sansab.png'),
       name: 'جاتوة سان سيباستيان',
-      price: 70,
+      price: 90,
       category: 'western'   
     },
     {
@@ -222,7 +222,7 @@ export const products = [
       id: 32,
       img: require('../images/western/moltencake.png'),
       name: 'مولتن كيك كوفي',
-      price: 70,
+      price: 75,
       category: 'western'   
     },
     {
@@ -250,28 +250,28 @@ export const products = [
       id: 36,
       img: require('../images/western/trilecha.png'),
       name: 'تريلتشا',
-      price: 70,
+      price: 75,
       category: 'western'   
     },
     {
       id: 37,
       img: require('../images/western/tagenNut.png'),
       name: 'طاجن نوتيلا',
-      price: 60,
+      price: 65,
       category: 'western'   
     },
     {
       id: 38,
       img: require('../images/western/orzBlbn.png'),
       name: 'أرز بلبن',
-      price: 30,
+      price: 35,
       category: 'western'   
     },
     {
       id: 39,
       img: require('../images/western/orzBlbnlotus.png'),
       name: 'أرز بلبن لوتس',
-      price: 35,
+      price: 40,
       category: 'western'   
     },
     {
@@ -285,21 +285,21 @@ export const products = [
       id: 41,
       img: require('../images/aboadellogo.jpeg'),
       name: 'كاس جاتوة',
-      price: 50,
+      price: 55,
       category: 'western'   
     },
     {
       id: 42,
       img: require('../images/western/cheesecake.png'),
       name: 'تشيز كيك',
-      price: 50,
+      price: 60,
       category: 'western'   
     },
     {
       id: 43,
       img: require('../images/aboadellogo.jpeg'),
       name: 'انجليش كيك',
-      price: 65,
+      price: 80,
       category: 'western'   
     },
     {
@@ -313,7 +313,7 @@ export const products = [
       id: 45,
       img: require('../images/western/berfetrol.jpeg'),
       name: 'بيرفيترول',
-      price: 50,
+      price: 55,
       category: 'western'   
     },
     {
@@ -327,14 +327,14 @@ export const products = [
       id: 47,
       img: require('../images/western/crumble.png'),
       name: 'كرمبل',
-      price: 50,
+      price: 55,
       category: 'western'   
     },
     {
       id: 48,
       img: require('../images/western/hotcheesecake.png'),
       name: 'تشيز كيك سخن',
-      price: 70,
+      price: 75,
       category: 'western'   
     },
     {
@@ -348,7 +348,7 @@ export const products = [
       id: 50,
       img: require('../images/western/sakhrCake.png'),
       name: 'جاتوة صخرة',
-      price: 70,
+      price: 75,
       category: 'western'   
     },
     {
@@ -1048,14 +1048,14 @@ export const products = [
       id: 150,
       img: require('../images/tart/halfregula.jpg'),
       name: 'تورتة متوسطة',
-      price: 470,
+      price: 440,
       category: 'tart'   
     },
     {
       id: 151,
       img: require('../images/tart/halfbig.jpg'),
       name: 'تورتة كبيرة',
-      price: 470,
+      price: 480,
       category: 'tart'   
     },
     {
@@ -1069,7 +1069,7 @@ export const products = [
       id: 153,
       img: require('../images/tart/fruit2.jpg'),
       name: 'تورتة فاكهة',
-      price: 470,
+      price: 475,
       category: 'tart'   
     },
     {
@@ -1089,22 +1089,22 @@ export const products = [
     {
       id: 156,
       img: require('../images/tart/4season.jpg'),
-      name: 'تورتة 4 سيرون ',
-      price: 450,
+      name: 'تورتة 4 سيزون ',
+      price: 470,
       category: 'tart'   
     },
     {
       id: 157,
       img: require('../images/tart/8season.jpg'),
-      name: 'تورتة 8 سيرون ',
-      price: 470,
+      name: 'تورتة 8 سيزون ',
+      price: 480,
       category: 'tart'   
     },
     {
       id: 158,
       img: require('../images/tart/melfeh.jpg'),
       name: 'تورتة ميلفيه',
-      price: 540,
+      price: 570,
       category: 'tart'   
     },
     {
@@ -1125,14 +1125,14 @@ export const products = [
       id: 161,
       img: require('../images/tart/floatsfruit.jpg'),
       name: 'نص فلوتس و فاكهه',
-      price: 565,
+      price: 590,
       category: 'tart'   
     },
     {
       id: 162,
       img: require('../images/tart/kitkatfruit.jpg'),
       name: 'تورتة كيت كات',
-      price: 565,
+      price: 610,
       category: 'tart'   
     },
     {
@@ -1174,42 +1174,42 @@ export const products = [
       id: 168,
       img: require('../images/tart/americanrush.jpg'),
       name: 'تورتة أمريكن راش',
-      price: 520,
+      price: 540,
       category: 'tart'   
     },
     {
       id: 169,
       img: require('../images/tart/30f30.jpg'),
       name: 'تورتة 30*30',
-      price: 670,
+      price: 690,
       category: 'tart'   
     },
     {
       id: 170,
       img: require('../images/tart/30f30.jpg'),
       name: 'تورتة 30*30 بصوره',
-      price: 710,
+      price: 730,
       category: 'tart'   
     },
     {
       id: 171,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 40*30 ',
-      price: 870,
+      price: 900,
       category: 'tart'   
     },
     {
       id: 172,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 40*30 بصوره صغيره',
-      price: 910,
+      price: 940,
       category: 'tart'   
     },
     {
       id: 173,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 40*30 بصوره كبيره',
-      price: 940,
+      price: 970,
       category: 'tart'   
     },
     {
@@ -1223,63 +1223,63 @@ export const products = [
       id: 175,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 40*40 بصوره صغيره',
-      price: 1050,
+      price: 1080,
       category: 'tart'   
     },
     {
       id: 176,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 40*40 بصوره كبيره',
-      price: 1080,
+      price: 1110,
       category: 'tart'   
     },
     {
       id: 177,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 60*40',
-      price: 1410,
+      price: 1440,
       category: 'tart'   
     },
     {
       id: 178,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 60*40 بصوره صغيره',
-      price: 1450,
+      price: 1480,
       category: 'tart'   
     },
     {
       id: 179,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 60*40 بصوره كبيره',
-      price: 1480,
+      price: 1510,
       category: 'tart'   
     },
     {
       id: 180,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 60*60',
-      price: 2320,
+      price: 2350,
       category: 'tart'   
     },
     {
       id: 181,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 60*60 بصوره صغيره',
-      price: 2360,
+      price: 2390,
       category: 'tart'   
     },
     {
       id: 182,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 60*60 بصوره كبيره',
-      price: 2390,
+      price: 2420,
       category: 'tart'   
     },
     {
       id: 183,
       img: require('../images/tart/sizes.jpg'),
       name: 'تورته 80*60 بصوره ',
-      price: 3120,
+      price: 3170,
       category: 'tart'   
     },
     {
