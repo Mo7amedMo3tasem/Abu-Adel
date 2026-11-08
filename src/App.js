@@ -24,10 +24,16 @@ function AnimatedRoutes() {
   const [loading, setLoading]     = useState(false);
 
   useEffect(() => {
+      window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
       setLoading(true);
       const timer = setTimeout(() => setLoading(false), 800);
       return () => clearTimeout(timer);
   }, [location.pathname]);
+
+  // تأكيد الرجوع لأعلى الصفحة بعد ظهور المحتوى الجديد
+  useEffect(() => {
+      if (!loading) window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+  }, [loading, location.pathname]);
 
   if (loading) return <Loader />;
 
@@ -51,6 +57,13 @@ function AnimatedRoutes() {
 
 
 export default function App() {
+  // منع المتصفح من استرجاع مكان السكرول القديم عند الرجوع/التقدم
+  useEffect(() => {
+    if ('scrollRestoration' in window.history) {
+      window.history.scrollRestoration = 'manual';
+    }
+  }, []);
+
   return (
       <BrowserRouter>
         <Header/>
