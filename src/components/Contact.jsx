@@ -74,6 +74,18 @@ export default function Contact() {
                           <a href="https://www.instagram.com/aboadel_hadayeq/" target="_blank" rel="noreferrer" className="contactCardBtn">تابعنا</a>
                       </div>
                       <div className="contactCard">
+                          <div className="contactCardIcon tiktok">
+                              <svg viewBox="0 0 16 16" fill="currentColor">
+                                  <path d="M9 0h1.98c.144.715.54 1.617 1.235 2.512C12.895 3.389 13.797 4 15 4v2c-1.753 0-3.07-.814-4-1.829V11a5 5 0 1 1-5-5v2a3 3 0 1 0 3 3z"/>
+                              </svg>
+                          </div>
+                          <h4 className="contactCardTitle">تيك توك</h4>
+                          <div className="contactCardInfo">
+                              <span className="contactCardLink">@aboadelhadayek</span>
+                          </div>
+                          <a href="https://www.tiktok.com/@aboadelhadayek" target="_blank" rel="noreferrer" className="contactCardBtn">تابعنا</a>
+                      </div>
+                      <div className="contactCard">
                           <div className="contactCardIcon facebook">
                               <svg viewBox="0 0 24 24" fill="currentColor">
                                   <path d="M22 12a10 10 0 1 0-11.5 9.87v-6.99H7.9V12h2.6V9.8c0-2.57 1.53-3.99 3.87-3.99 1.12 0 2.29.2 2.29.2v2.5h-1.29c-1.27 0-1.67.79-1.67 1.6V12h2.84l-.45 2.88h-2.39v6.99A10 10 0 0 0 22 12z"/>

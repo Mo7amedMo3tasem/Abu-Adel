@@ -649,6 +649,16 @@ p {
     background-color: rgba(37, 211, 102, 0.1);
 }
 
+.mainFooter .footer-social.tiktok-icon:hover {
+    color: #010101;
+    background-color: rgba(1, 1, 1, 0.1);
+}
+
+body.dark .mainFooter .footer-social.tiktok-icon:hover {
+    color: #69c9d0;
+    background-color: rgba(105, 201, 208, 0.12);
+}
+
 
 .mainFooter .footerBottom {
     margin-top: 40px;

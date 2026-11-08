@@ -304,7 +304,7 @@ export const products = [
     },
     {
       id: 44,
-      img: require('../images/western/englishcake.jpeg'),
+      img: require('../images/western/englishcake2.jpeg'),
       name: 'انجليش كيك',
       price: 90,
       category: 'western'   
@@ -563,7 +563,7 @@ export const products = [
     },
     {
       id: 81,
-      img: require('../images/bakery/batieza3ter.jpeg'),
+      img: require('../images/bakery/batehz3tr.jpeg'),
       name: 'باتيه شيدر و زعتر',
       price: 100,
       category: 'bakery'   
