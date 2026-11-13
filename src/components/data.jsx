@@ -418,28 +418,28 @@ export const products = [
       id: 60,
       img: require('../images/choco/bondo2.jpg'),
       name: 'الشوكولاته البندق',
-      price: 450,
+      price: 480,
       category: 'choco'   
     },
     {
       id: 61,
       img: require('../images/choco/loz.jpg'),
       name: 'الشوكولاته اللوز',
-      price: 450,
+      price: 480,
       category: 'choco'   
     },
     {
       id: 62,
       img: require('../images/choco/aingamal.jpg'),
       name: 'الشوكولاته العين جمل',
-      price: 450,
+      price: 480,
       category: 'choco'   
     },
     {
       id: 63,
       img: require('../images/choco/bondo2.jpg'),
       name: 'الشوكولاته الكاجو',
-      price: 450,
+      price: 480,
       category: 'choco'   
     },
     {
@@ -453,7 +453,7 @@ export const products = [
       id: 65,
       img: require('../images/chocCat.png'),
       name: 'شوكولاته مشكل مكسرات',
-      price: 450,
+      price: 480,
       category: 'choco'   
     },
     {
@@ -670,7 +670,7 @@ export const products = [
       id: 96,
       img: require('../images/bakery/boghasha.png'),
       name: 'فطيرة بغاشة',
-      price: 120,
+      price: 150,
       category: 'bakery'   
     },
     {
@@ -754,7 +754,7 @@ export const products = [
       id: 108,
       img: require('../images/eastern/mshklnuts.jpg'),
       name: 'مشكل نواشف مكسرات',
-      price: 500,
+      price: 530,
       category: 'eastern'   
     },
     {
@@ -782,7 +782,7 @@ export const products = [
       id: 112,
       img: require('../images/eastern/daloaa.png'),
       name: 'دلوعة',
-      price: 275,
+      price: 300,
       category: 'eastern'   
     },
     {
@@ -796,7 +796,7 @@ export const products = [
       id: 114,
       img: require('../images/eastern/blhelshamcream.jpg'),
       name: 'بلح شام كريمة',
-      price: 270,
+      price: 280,
       category: 'eastern'   
     },
     {
@@ -894,7 +894,7 @@ export const products = [
       id: 128,
       img: require('../images/eastern/konafamanga.jpeg'),
       name: 'كنافة مانجو',
-      price: 440,
+      price: 300,
       category: 'eastern'   
     },
     {
@@ -964,21 +964,21 @@ export const products = [
       id: 138,
       img: require('../images/eastern/konafaasawer.png'),
       name: 'كنافة أساور لوز',
-      price: 470,
+      price: 510,
       category: 'eastern'   
     },
     {
       id: 139,
       img: require('../images/eastern/konafaasawer.png'),
       name: 'كنافة أساور بندق',
-      price: 470,
+      price: 510,
       category: 'eastern'   
     },
     {
       id: 140,
       img: require('../images/eastern/asawerbondo2.jpg'),
       name: 'كنافة أساور كاجو',
-      price: 460,
+      price: 510,
       category: 'eastern'   
     },
     {
@@ -992,14 +992,14 @@ export const products = [
       id: 142,
       img: require('../images/aboadellogo.jpeg'),
       name: 'كنافة سيجار بندق',
-      price: 500,
+      price: 520,
       category: 'eastern'   
     },
     {
       id: 143,
       img: require('../images/eastern/konafabormaandbasma.png'),
       name: 'كنافة بصمة بندق',
-      price: 470,
+      price: 500,
       category: 'eastern'   
     },
     {
@@ -1020,7 +1020,7 @@ export const products = [
       id: 146,
       img: require('../images/eastern/konafabormaandbasma.png'),
       name: 'كنافة بورمة فستق',
-      price: 1010,
+      price: 1030,
       category: 'eastern'   
     },
     {
@@ -1041,28 +1041,28 @@ export const products = [
       id: 149,
       img: require('../images/eastern/ba2lawalotus.jpg'),
       name: 'بقلاوة لوتس',
-      price: 440,
+      price: 450,
       category: 'eastern'   
     },
     {
       id: 150,
       img: require('../images/eastern/b2lawanutella.jpg'),
       name: 'بقلاوة نيوتيلا',
-      price: 440,
+      price: 450,
       category: 'eastern'   
     },
     {
       id: 151,
       img: require('../images/eastern/ba2lawaaingamal.jpg'),
       name: 'بقلاوة عين جمل',
-      price: 440,
+      price: 450,
       category: 'eastern'   
     },
     {
       id: 152,
       img: require('../images/eastern/ba2lawabondo2.jpg'),
       name: 'بقلاوة بندق',
-      price: 440,
+      price: 450,
       category: 'eastern'   
     },
     {
